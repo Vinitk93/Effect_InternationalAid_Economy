@@ -1,5 +1,9 @@
 # EFFECT OF INTERNATIONAL AID ON ECONOMIC GROWTH
 
+The effectiveness of International aid on economic growth of developing countries has been studied by economists for several decades. The importance of the topic can be supported by its implications in poverty rate reduction in developing countries.
+
+The main reason to choose the topic is the desire to contribute to make the world a better place for everyone. In this project, previous empirical studies on foreign aid and the economic growth have been analyzed and varying results found.
+
 # TABLE OF CONTENTS
 
 [Research objective](#research-objective)
